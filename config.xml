@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.khtab.sobky"
+    versionCode = "11"
+    version     = "0.0.5" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Quran  </name>
+  
+<preference name="android-targetSdkVersion" value="29"/>
+ 
+ <description>
+      An offline app that contains The Holy quran 
+  </description>
+
+  <author href="https://build.phonegap.com" email="support@phonegap.com">
+      Khtab and Sobky
+  </author>
+  
+ <icon src="image/logo.png" />
+</widget>
